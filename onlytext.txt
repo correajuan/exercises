@@ -1,2 +1,3 @@
 It is a short text.
 It is a new line
+It is another different text.
